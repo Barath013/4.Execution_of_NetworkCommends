@@ -28,10 +28,13 @@ This commands includes
 
 ## Output
 
-<img width="1920" height="1080" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/0d1c2509-7afa-449a-ab6e-b82947fb91bb" />
+
 <img width="1024" height="178" alt="image" src="https://github.com/user-attachments/assets/630dc0f5-a752-4b18-9cc0-32a55c1c8ce9" />
+
 <img width="323" height="78" alt="image" src="https://github.com/user-attachments/assets/8c68fa01-ba4e-40ad-9e3e-d0e29222c75a" />
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f91ce5cb-3488-4b1c-84f2-758ccece8f77" />
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/996066f1-dd8a-4b45-a5fd-02cf6f3ffce4" />
 
 
