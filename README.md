@@ -47,6 +47,21 @@ This commands includes
 ### nslookup
 <img width="498" height="74" alt="image" src="https://github.com/user-attachments/assets/dac59ffe-d942-409f-b700-0086326ba3ed" />
 
+### tracert
+<img width="1600" height="900" alt="tracert" src="https://github.com/user-attachments/assets/3e457838-3473-4701-b70e-9e48febbdcb2" />
+
+### ping
+<img width="1600" height="900" alt="ping" src="https://github.com/user-attachments/assets/1958e127-9fef-4077-be9c-5d66b0741920" />
+
+### arp
+<img width="1600" height="900" alt="arp" src="https://github.com/user-attachments/assets/64665c70-d62e-4612-94c2-5666e0de9e28" />
+
+### netsh
+<img width="1600" height="900" alt="netsh" src="https://github.com/user-attachments/assets/94f03bb6-e2ca-4c08-8752-94a644c323aa" />
+
+### netstat
+<img width="1600" height="900" alt="netsh" src="https://github.com/user-attachments/assets/8974cdca-fdcd-4341-bdbe-97aa45d896f2" />
+
 
 ## Result
 Thus Execution of Network commands Performed 
